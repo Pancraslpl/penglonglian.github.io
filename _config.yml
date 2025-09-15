@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Focusing on video and speech large generation model."
-repository               : "rayeren/rayeren.github.io"
+title                    : "Penglong Lian (连鹏隆)"
+description              : "Hi, there. I am a phd candidate in UESTC."
+repository               : "Pancraslpl/penglonglian.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
