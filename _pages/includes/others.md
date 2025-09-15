@@ -16,12 +16,12 @@
 - *2024.07* American Control Conference (ACC) | Toronto, Canada
 
 # 💻 Practice Experience
-# Project Practice
+## Project Practice
 - *2025.08-* Project Proposal Presentation, China BQ Institute of Industrial Computer Application Technology
 - *2024.07-2025.08* Project Kick-off & Closing Report, China Academy of Engineering Physics
 - *2023.08-2024.06* Project Closing Report, Dongfang Electric Automation Control Engineering Co., Ltd.
 - *2023.01-2023.08* Project Kick-off & Closing Report, Dongfang Electric Central Research Institute
 
-Teaching Practice
+## Teaching Practice
 - *2022.09 – 2025.06* Teaching Assistant of “Pattern Recognition and Machine Learning” (Graduate Course, 4 consecutive years)
 - *2023.09 – 2024.06* Teaching Assistant for Undergraduate Thesis Supervision
