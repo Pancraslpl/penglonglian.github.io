@@ -1,4 +1,3 @@
-
 # 📖 Educations
 - *2022.09 - 2026.06 (expected)*, Ph.D. in Control Science and Engineering, School of Automation Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu.
   - Dissertation: Intelligent Fault Diagnosis of Rotating Machinery under Non-Ideal Data Conditions
@@ -11,9 +10,9 @@
   - GPA: 3.34/4.0
 
 # 💬 Invited Talks
-- *2025.10* IEEE International Conference on Industrial Electronics (IECON) | Madrid, Spain
-- *2025.10* IEEE Global Reliability, Prognostics and Health Management Conference (PHM) | Xi’an, China
-- *2024.07* American Control Conference (ACC) | Toronto, Canada
+- *2025.10* IEEE International Conference on Industrial Electronics (IECON), Madrid, Spain
+- *2025.10* IEEE Global Reliability, Prognostics and Health Management Conference (PHM), Xi’an, China
+- *2024.07* American Control Conference (ACC), Toronto, Canada
 
 # 💻 Practice Experience
 ## Project Practice
