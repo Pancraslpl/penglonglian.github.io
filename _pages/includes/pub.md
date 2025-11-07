@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-- [1] **Penglong Lian**, Jianxiao Zou, et al., Continual unsupervised domain adaptation with structure-preserving probabilistic anchors for rotating machinery fault diagnosis, Advanced Engineering Informatics. (Under Review)
+- [1] **Penglong Lian**, Jianxiao Zou, et al., Continual unsupervised domain adaptation with structure-preserving probabilistic anchors for rotating machinery fault diagnosis, Advanced Engineering Informatics. (Accept)
 - [2] **Penglong Lian**, Penghui Shang, et al., Dual-stage recognition framework for open-set fault diagnosis in rotating machinery considering varying inter-class similarity, Control Engineering Practice. (Under Review)
 - [3] **Penglong Lian**, Jiyang Zhang, et al., Knowledge Graph-Driven Graph Neural Network with Multi-Source Knowledge for Industrial Fault Diagnosis, IEEE Global Reliability & Prognositcs and Health Management Conference, Xi’an, China, 2025.
 - [4] **Penglong Lian**, Junlin Song, et al., Multi-Scale Feature-Probability Consistency for Domain Concept Drift Detection in Non-Stationary Industrial Fault Diagnosis, Annual Conference of the IEEE Industrial Electronics Society, Madrid, Spain, 2025.
