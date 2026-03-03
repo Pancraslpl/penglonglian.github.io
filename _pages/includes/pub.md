@@ -15,8 +15,8 @@
 
 - [1] **Penglong Lian**, Jiyang Zhang, et al., Knowledge Graph-Driven Graph Neural Network with Multi-Source Knowledge for Industrial Fault Diagnosis, IEEE Global Reliability & Prognositcs and Health Management Conference, Xi’an, China, 2025.
   
-- [2] **Penglong Lian**, Junlin Song, et al., Multi-Scale Feature-Probability Consistency for Domain Concept Drift Detection in Non-Stationary Industrial Fault Diagnosis, Annual Conference of the IEEE Industrial Electronics Society, Madrid, Spain, 2025. [https://doi.org/10.1109/IECON58223.2025.11221095](https://doi.org/10.1109/IECON58223.2025.11221095)
+- [2] **Penglong Lian**, Junlin Song, et al., Multi-Scale Feature-Probability Consistency for Domain Concept Drift Detection in Non-Stationary Industrial Fault Diagnosis, Annual Conference of the IEEE Industrial Electronics Society, Madrid, Spain, 2025. [https://doi.org/10.1109/IECON58223.2025.11221095](https://doi.org/10.1109/IECON58223.2025.11221095).
   
-- [3] **Penglong Lian**, Penghui Shang, et al., Dual-Stream Cross-Modal Feature Fusion Based on Multi-Scale Attention for Industrial Fault Diagnosis, 2024 American Control Conference, Toronto, Canada, 2024. [https://doi.org/10.23919/ACC60939.2024.10644756](https://doi.org/10.23919/ACC60939.2024.10644756)
+- [3] **Penglong Lian**, Penghui Shang, et al., Dual-Stream Cross-Modal Feature Fusion Based on Multi-Scale Attention for Industrial Fault Diagnosis, 2024 American Control Conference, Toronto, Canada, 2024. [https://doi.org/10.23919/ACC60939.2024.10644756](https://doi.org/10.23919/ACC60939.2024.10644756).
   
-- [4] **Penglong Lian**, Qi Zhao, et al., An Imputation Method Based on Dummy Variable and Unsupervised Learning for Electricity Consumption Data with Missing Values, 2021 IEEE 2nd China International Youth Conference on Electrical Engineering, Chengdu, China, 2021. [https://doi.org/10.1109/CIYCEE53554.2021.9676809](https://doi.org/10.1109/CIYCEE53554.2021.9676809)
+- [4] **Penglong Lian**, Qi Zhao, et al., An Imputation Method Based on Dummy Variable and Unsupervised Learning for Electricity Consumption Data with Missing Values, 2021 IEEE 2nd China International Youth Conference on Electrical Engineering, Chengdu, China, 2021. [https://doi.org/10.1109/CIYCEE53554.2021.9676809](https://doi.org/10.1109/CIYCEE53554.2021.9676809).
