@@ -9,7 +9,7 @@
 
 - [3] Zhiheng Su, **Penglong Lian**, et al., Semi-supervised source-free domain adaptation method via diffusive label propagation for rotating machinery fault diagnosis, Reliability Engineering & System Safety, 2024, 252: 110408. [https://doi.org/10.1016/j.ress.2024.110408](https://doi.org/10.1016/j.ress.2024.110408).       （中科院一区TOP，JCR Q1，IF: 11，二作）
 
-- [4] **Penglong Lian**, Han Liu, et al., Soft sensor based on DBN-IPSO-SVR approach for rotor thermal deformation prediction of rotary air-preheater, Measurement, 2020, 165: 108109. [https://doi.org/10.1016/j.measurement](https://doi.org/10.1016/j.measurement).2020.108109.     （中科院二区，JCR Q1，IF: 5.6，一作）
+- [4] **Penglong Lian**, Han Liu, et al., Soft sensor based on DBN-IPSO-SVR approach for rotor thermal deformation prediction of rotary air-preheater, Measurement, 2020, 165: 108109. [https://doi.org/10.1016/j.measurement.2020.108109](https://doi.org/10.1016/j.measurement.2020.108109).     （中科院二区，JCR Q1，IF: 5.6，一作）
 
 **Conference Papers**
 
