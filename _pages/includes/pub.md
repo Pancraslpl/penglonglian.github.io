@@ -4,10 +4,10 @@
 **Journal Papers**
 
 - [1] **Penglong Lian**, Jianxiao Zou, et al. Continual unsupervised domain adaptation with structure-preserving probabilistic anchors for rotating machinery fault diagnosis [J]. Advanced Engineering Informatics, 2026, 70: 104216. [https://doi.org/10.1016/j.aei.2025.104216](https://doi.org/10.1016/j.aei.2025.104216).   （中科院一区TOP，JCR Q1，IF: 9.9，一作）
-  
-- [2] **Penglong Lian**, Penghui Shang, et al. Dual-stage recognition framework for open-set fault diagnosis in rotating machinery considering varying inter-class similarity [J]. Control Engineering Practice, 2026, 170: 106808. [https://doi.org/10.1016/j.conengprac.2026.106808](https://doi.org/10.1016/j.conengprac.2026.106808).    （中科院二区，JCR Q1，IF: 4.6，一作）
 
-- [3] **Penglong Lian**, Junlin Song, et al. Physics-semantics guided causal disentanglement for domain generalization in rotating machinery fault diagnosis [J]. Advanced Engineering Informatics, 2026. Accept. （中科院一区TOP，JCR Q1，IF: 9.9，一作）
+- [2] **Penglong Lian**, Junlin Song, et al. Physics-semantics guided causal disentanglement for domain generalization in rotating machinery fault diagnosis [J]. Advanced Engineering Informatics, 2026. Accept. （中科院一区TOP，JCR Q1，IF: 9.9，一作）
+  
+- [3] **Penglong Lian**, Penghui Shang, et al. Dual-stage recognition framework for open-set fault diagnosis in rotating machinery considering varying inter-class similarity [J]. Control Engineering Practice, 2026, 170: 106808. [https://doi.org/10.1016/j.conengprac.2026.106808](https://doi.org/10.1016/j.conengprac.2026.106808).    （中科院二区，JCR Q1，IF: 4.6，一作）
 
 - [4] Zhiheng Su, **Penglong Lian**, et al., Semi-supervised source-free domain adaptation method via diffusive label propagation for rotating machinery fault diagnosis, Reliability Engineering & System Safety, 2024, 252: 110408. [https://doi.org/10.1016/j.ress.2024.110408](https://doi.org/10.1016/j.ress.2024.110408).       （中科院一区TOP，JCR Q1，IF: 11，二作）
 
