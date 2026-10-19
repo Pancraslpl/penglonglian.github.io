@@ -1,5 +1,5 @@
 # 📖 Educations
-- *2022.09 - 2026.06 (expected)*, Ph.D. in Control Science and Engineering, School of Automation Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu.
+- *2022.09 - 2026.06*, Ph.D. in Control Science and Engineering, School of Automation Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu.
   - Dissertation: Intelligent Fault Diagnosis of Rotating Machinery under Non-Ideal Data Conditions
   - GPA: 3.11/4.0
 - *2017.09 - 2020.07*, M.Sc. in Control Engineering, School of Automation and Information Engineering, Xi’an University of Technology, Xi’an.
