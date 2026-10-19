@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Penglong Lian (连鹏隆)"
-description              : "Hi there! I am a Ph.D. candidate in Control Science and Engineering at the University of Electronic Science and Technology of China (UESTC)."
+description              : "Hi there!"
 repository               : "Pancraslpl/penglonglian.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Penglong Lian (连鹏隆)"
   avatar           : "images/my_load_pics.jpeg"
   bio              : ""
-  location         : "Chengdu"
+  location         : "Wuhan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=s61qHbAAAAAJ"
