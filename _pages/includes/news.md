@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.04*:  One papers is under review in Expert Systems With Applications.
+- *2026.10*:  One papers is under review in Engineering Applications of Artificial Intelligence.
 - *2026.04*: 🎉 One paper is accepted by Advanced Engineering Informatics Journal
 - *2026.01*: 🎉 One paper is accepted by Control Engineering Practice Journal
 - *2025.12*: 🎉 One paper is accepted by Advanced Engineering Informatics Journal
